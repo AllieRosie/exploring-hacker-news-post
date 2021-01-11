@@ -2,7 +2,7 @@
 
 Exploring effect of post types (Ask HN/Show HN) and post time on number of comments received
 
-Link to Jupyter Notebook: https://github.com/AllieRosie/exploring-hacker-news-post/blob/main/Basics.ipynb
+Link to Jupyter Notebook: [notebook](Basics.ipynb)
 
 My analysis shows that:
 - Ask posts receive more comments than show posts on average. 
